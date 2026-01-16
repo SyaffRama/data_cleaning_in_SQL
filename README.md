@@ -1,5 +1,6 @@
 # Data Cleaning in SQL
-**Overview**
+
+# Overview
 
 This project demonstrates practical data cleaning skills using MySQL. The main objective is to transform a raw dataset into a clean, structured, and analysis-ready format using SQL queries. To clearly show the impact of the cleaning process, both the original (before) and cleaned (after) datasets are included.
 
@@ -27,7 +28,7 @@ The data cleaning process includes:
 All transformations are documented and executed using SQL queries.
 
 # Results
-Produced a clean, consistent dataset ready for analysis
-Improved data quality, readability, and usability
+- Produced a clean, consistent dataset ready for analysis
+- Improved data quality, readability, and usability
 
 Clearly demonstrated the effect of each cleaning step through before-and-after comparison
