@@ -14,7 +14,6 @@ The datasets are provided to allow direct comparison and transparency of the cle
 
 # Tools
 - MySQL
-- SQL (DDL & DML statements)
 
 # Steps
 The data cleaning process includes:
